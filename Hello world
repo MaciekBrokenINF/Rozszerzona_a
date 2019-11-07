@@ -3,5 +3,6 @@
     int main() 
     {
         cout << "Hello, World!";
+        cout << "siema siema * witam";
         return 0;
     }
